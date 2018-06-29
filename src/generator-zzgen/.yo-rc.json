@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Lucas Guzzo",
+      "authorEmail": "lucas.guzzo@radixeng.com.br",
+      "authorUrl": ""
+    }
+  }
+}
