@@ -16,6 +16,12 @@ Then generate your new project:
 yo zzgen
 ```
 
+## Local Use For Development
+Clone the repository to your local machine. At the root of the project ```generator-zzgen/``` execute the following command.
+```bash
+npm link
+```
+Now you can run ```yo zzgen``` and see your modifications.
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
